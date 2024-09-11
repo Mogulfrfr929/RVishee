@@ -15,7 +15,7 @@ This website was created as part of a web development project, aiming to build a
 
 The following contributors have worked on this project:
 
-  * [Hashim Ali] **[Github](https://github.com/Mogulfrfr929)** 
+  * [Hashim Edres] **[Github](https://github.com/Mogulfrfr929)** 
   * [Abbas Omer] **[Github](https://github.com/Abbasol)**
   * [Sahar Ali] **[Github](https://github.com/saharrrrr)**
 
