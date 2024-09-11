@@ -15,9 +15,9 @@ This website was created as part of a web development project, aiming to build a
 
 The following contributors have worked on this project:
 
-  * [Contributor Name] **[Github](https://github.com/contributor1)** , **[Twitter](https://twitter.com/contributor1)**
-  * [Contributor Name] **[Github](https://github.com/contributor2)** , **[Twitter](https://twitter.com/contributor2)**
-  * [Contributor Name] **[Github](https://github.com/contributor3)** , **[Twitter](https://twitter.com/contributor3)**
+  * [Hashim Ali] **[Github](https://github.com/Mogulfrfr929)** 
+  * [Abbas Omer] **[Github](https://github.com/Abbasol)**
+  * [Sahar Ali] **[Github](https://github.com/saharrrrr)**
 
 ## Project Guide
 
